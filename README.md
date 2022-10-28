@@ -6,7 +6,9 @@
     <h4>I'm AcruxTech (Ovchinnikov Vladimir) and learning programming now.</h4>
 </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AcruxTech&theme=highcontrast&show_icons=true&count_private=true)
+<div align="center">
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=AcruxTech&theme=highcontrast&show_icons=true&count_private=true)
+</div>
 
 <div align="center">
     I practiced with: <br>
