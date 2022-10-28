@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=AcruxTech&theme=highcontrast&show_icons=true&count_private=true)
+    <img src="https://github-readme-stats.vercel.app/api?username=AcruxTech&theme=highcontrast&show_icons=true&count_private=true" alt="GH stats">
 </div>
 
 <div align="center">
